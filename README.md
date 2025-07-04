@@ -4,6 +4,7 @@ Play against the computer and track your score!
 How to Play
 Click one of the three buttons:
 
+![Screenshot 2025-06-25 174035](https://github.com/user-attachments/assets/4cc25046-114d-4d32-a0a7-c85fd78616fc)
 👊 Rock
 
 ✋ Paper
